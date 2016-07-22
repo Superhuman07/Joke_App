@@ -9,9 +9,6 @@ import com.google.android.gms.ads.AdSize;
 import com.google.android.gms.ads.AdView;
 import com.udacity.gradle.builditbigger.R;
 
-/**
- * Created by arpitdec5 on 01-07-2016.
- */
 public class UtilsAd {
 
     public static void showAds(Context context, View view) {
