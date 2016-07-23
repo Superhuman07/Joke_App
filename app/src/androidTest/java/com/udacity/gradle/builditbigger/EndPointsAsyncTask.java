@@ -6,9 +6,7 @@ import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.TimeUnit;
 
-/**
- * Created by arpitdec5 on 30-06-2016.
- */
+
 public class EndPointsAsyncTask extends AndroidTestCase {
 
     CountDownLatch signal;
